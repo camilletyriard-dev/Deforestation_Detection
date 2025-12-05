@@ -1,4 +1,10 @@
-data/
+data/AMAZON
+data/ATLANTIC FOREST
+data/Amazon Forest Dataset
+data/data.rar
+data/data2.rar
+data/data3.rar
+
 __pycache__/
 
 *.conda
